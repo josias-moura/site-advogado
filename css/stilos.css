@@ -22,3 +22,15 @@ h1, h2, h3 {
     font-size: 22px;
     font-weight: bold;
 }
+
+/* Seção inicial com imagem de fundo */
+.secao-background-capa {
+    min-height: 500px;
+    background-image: url(../img/capa.jpg);
+    background-size: cover;
+}
+
+.secao-background-conteudo {
+    text-align: right;
+    padding: 50px 20px;
+}
