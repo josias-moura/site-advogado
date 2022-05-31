@@ -3,3 +3,22 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
+/* Topo */
+.secao-topo {
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.secao-largura-limitada {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+.secao-topo p {
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
