@@ -34,3 +34,19 @@ h1, h2, h3 {
     text-align: right;
     padding: 50px 20px;
 }
+
+/* Seção conteúdo */
+.secao-conteudo {
+    padding: 50px 20px;
+}
+
+.img-conteudo {
+    width: 250px;
+    height: 180px;
+}
+
+.secao-conteudo span {
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px;
+}
